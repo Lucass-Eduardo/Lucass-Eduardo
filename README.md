@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Lucas.</h1>
-<h3 align="center">Eu sou estudante de aiência e análise de dados.</h3>
+<h3 align="center">Eu sou estudante de ciência e análise de dados.</h3>
 
 - 🌱 Atualmente aprendendo **Power BI, SQL e MongoDB.**
 
