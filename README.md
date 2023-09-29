@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Lucas.</h1>
-<h3 align="center">Eu sou estudante de Ciência de Dados, Análise de Dados e Gestão da Tecnologia da Informação.</h3>
+<h3 align="center">Eu sou estudante de Ciência de Dados, Análise de Dados e Gestão de TI.</h3>
 
 - 🌱 Atualmente aprendendo **Power BI, SQL e MongoDB.**
 
