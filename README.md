@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis no meu [repositório](https://github.com/Lucass-Eduardo?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Redes sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucas-eduardo-4b81391aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-eduardo-4b81391aa/" height="30" width="40" /></a>
 </p>
